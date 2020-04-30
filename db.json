@@ -1,35 +1,9 @@
 {
   "forms": [
-    {
-      "name": "Feedback form - agent X",
-      "description": "Updated description",
-      "id": 1
-    },
-    {
-      "id": 2,
-      "name": "Feedback form - agent y",
-      "description": "Description 3"
-    },
-    {
-      "name": "Evaluation form",
-      "description": "New description",
-      "id": 3
-    },
-    {
-      "name": "New form",
-      "description": "New description",
-      "id": 4
-    },
-    {
-      "name": "Form new",
-      "description": "New description",
-      "id": 5
-    },
-    {
-      "name": "Agent evaluation",
-      "description": "New description",
-      "id": 6
-    }
+   
+    
+    
+    
   ],
   "users": [
     {
