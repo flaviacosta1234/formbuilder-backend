@@ -29,6 +29,11 @@
       "name": "Agent evaluation",
       "description": "New description",
       "id": 6
+    },
+    {
+      "name": "Agent evaluation",
+      "description": "New description",
+      "id": 7
     }
   ],
   "users": [
