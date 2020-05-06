@@ -10,6 +10,17 @@
         "value": ""
       }]
       
+    },
+    {
+      "name": "Feedback form - agent Y",
+      "description": "Updated description",
+      "values": [{
+        "id": "",
+        "inputQuestion": "",
+        "type": "", 
+        "value": ""
+      }]
+      
     }
    
   ],
