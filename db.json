@@ -3,26 +3,25 @@
     {
       "name": "Feedback form - agent X",
       "description": "Updated description",
-      "values": [{
-        "id": "",
-        "inputQuestion": "",
-        "type": "", 
-        "value": ""
-      }]
-      
+      "id": 1
     },
     {
-      "name": "Feedback form - agent Y",
-      "description": "Updated description",
-      "values": [{
-        "id": "",
-        "inputQuestion": "",
-        "type": "", 
-        "value": ""
-      }]
-      
+      "id": 2,
+      "name": "Feedback form - agent y",
+      "description": "Description 3"
+    },
+    {
+      "name": "Evaluation form",
+      "description": "New description",
+      "id": 3
+    },
+    {
+      "name": "New form",
+      "description": "New description",
+      "id": 4
     }
    
+    
   ],
   "users": [
     {
