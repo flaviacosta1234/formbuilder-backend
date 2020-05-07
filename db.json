@@ -1,25 +1,14 @@
 {
   "forms": [
     
-    {
-      "name": "Feedback form - agent X",
-      "description": "Updated description",
-      "id": 1
-    }
-    
-    
     
   ],
   "users": [
     {
-      "id": 2,
+      "id": 1,
       "username": "Administrador",
       "password": "admin"
-    },
-    {
-      "id": 3,
-      "username": "Supervisor",
-      "password": "supervisor"
     }
+  
   ]
 }
