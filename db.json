@@ -11,10 +11,9 @@
   "users": [
     {
       "id": 1,
-      "usernameAdmin": "Administrador",
-      "passwordAdmin": "admin",
-      "usernameSupervisor": "Supervisor",
-      "passwordSupervisor": "Supervisor"
+      "username": "Administrador",
+      "password": "admin"
+     
 
     }
   
