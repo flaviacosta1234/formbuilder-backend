@@ -12,9 +12,9 @@
     {
       "id": 1,
       "username": "Administrador",
-      "password": "admin",
+      "password": "admin1",
       "usernameSupervisor": "Supervisor",
-      "passwordSupervisor": "supervisor"
+      "passwordSupervisor": "supervisor1"
      
     }
  ]
