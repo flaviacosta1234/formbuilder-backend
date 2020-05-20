@@ -16,8 +16,8 @@
     },
     {
       "id": 2,
-      "usernameSupervisor": "Supervisor",
-      "passwordSupervisor": "supervisor1"
+      "username": "Supervisor",
+      "password": "supervisor1"
     }
     
  ]
