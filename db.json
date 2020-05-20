@@ -12,19 +12,12 @@
     {
       "id": 1,
       "username": "Administrador",
-      "password": "admin"
+      "password": "admin",
+      "usernameSupervisor": "Supervisor",
+      "passwordSupervisor": "supervisor"
      
-
     }
- ],
- "supervisor": [
-  {
-    "id": 1,
-    "username": "Supervisor",
-    "password": "supervisor"
-   
+ ]
 
-  }
 
-]
 }
