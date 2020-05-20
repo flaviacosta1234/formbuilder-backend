@@ -8,7 +8,7 @@
    
     
   ],
-  "admin": [
+  "users": [
     {
       "id": 1,
       "username": "Administrador",
