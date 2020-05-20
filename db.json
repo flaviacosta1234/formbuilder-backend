@@ -12,15 +12,16 @@
     {
       "id": 1,
       "username": "Administrador",
-      "password": "admin1"
-    },
-    {
-      "id": 2,
-      "username": "Supervisor",
-      "password": "supervisor1"
+      "password": "admin1",
+      "usernameSupervisor": "Supervisor",
+      "passwordSupervisor": "supervisor1"
+     
     }
-    
  ]
+
+
+}
+
 
 
 }
