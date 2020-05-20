@@ -11,8 +11,11 @@
   "users": [
     {
       "id": 1,
-      "username": "Administrador",
-      "password": "admin"
+      "usernameAdmin": "Administrador",
+      "passwordAdmin": "admin",
+      "usernameSupervisor": "Supervisor",
+      "passwordSupervisor": "Supervisor"
+
     }
   
   ]
