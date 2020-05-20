@@ -8,7 +8,7 @@
    
     
   ],
-  "users": [
+  "admin": [
     {
       "id": 1,
       "username": "Administrador",
@@ -16,6 +16,15 @@
      
 
     }
-  
-  ]
+ ],
+ "supervisor": [
+  {
+    "id": 1,
+    "username": "Supervisor",
+    "password": "supervisor"
+   
+
+  }
+
+]
 }
